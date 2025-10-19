@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jiadlu&label=Profile%20views&color=0e75b6&style=flat" alt="jiadlu" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://jiadlu.github.io/](https://jiadlu.github.io/)
-
 - 📄 Know about my experiences [https://jiadlu.github.io/](https://jiadlu.github.io/)
 
 <h3 align="left">Languages and Tools:</h3>
