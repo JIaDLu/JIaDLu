@@ -27,17 +27,6 @@ Working at the intersection of LLMs, healthcare AI, and data-driven systems.
 
 ---
 
-## Selected papers
-
-| Year | Title |
-|------|-------|
-| 2024 | Tropical Cyclone Ensemble Forecast Framework Based on Spatiotemporal Model |
-| 2023 | A Multimodal Deep Learning Approach for Typhoon Track Forecast |
-| 2023 | Aspect-level Sentiment Analysis Model Fused with GPT and Multi-layer Attention |
-| 2022 | Typhoon Track Prediction Based on TimeForce CNN-LSTM Hybrid Model |
-
----
-
 ## Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=JIaDLu&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=graywhite" height="130" alt="stats" />
